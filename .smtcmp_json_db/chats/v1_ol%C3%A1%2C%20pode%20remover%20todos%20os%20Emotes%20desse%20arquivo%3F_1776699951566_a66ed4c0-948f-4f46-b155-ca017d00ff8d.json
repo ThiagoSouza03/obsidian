@@ -1,0 +1,239 @@
+{
+  "id": "a66ed4c0-948f-4f46-b155-ca017d00ff8d",
+  "title": "olá, pode remover todos os Emotes desse arquivo?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "olá, pode remover todos os Emotes desse arquivo?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nolá, pode remover todos os Emotes desse arquivo?\n\n"
+        }
+      ],
+      "id": "222438d1-36df-4143-b98d-4d3313b98ffa",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Sessões/Sessão 3/Sessão 3.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "pode remover todos o emojis desse aquivo?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\npode remover todos o emojis desse aquivo?\n\n"
+        }
+      ],
+      "id": "7f6194c7-e2af-4a25-bd7c-fbff72cf94a8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Sessões/Sessão 3/Sessão 3.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "coloque o texto ao fim do documento com um \"olá mundo\"",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ncoloque o texto ao fim do documento com um \"olá mundo\"\n\n"
+        }
+      ],
+      "id": "18c030aa-9b8a-48f6-81ff-133963cbb8fd",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Sessões/Sessão 3/Sessão 3.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "a",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\na\n\n"
+        }
+      ],
+      "id": "baee966c-c264-466f-a6fc-b229efcaf73a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Sessões/Sessão 3/Sessão 3.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "coloque ao fim do documento o texto \"o`la mundo\"",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ncoloque ao fim do documento o texto \"o`la mundo\"\n\n"
+        }
+      ],
+      "id": "90e7dcf5-f16e-4991-8937-f2f57d362b4e",
+      "mentionables": []
+    }
+  ],
+  "createdAt": 1776699103163,
+  "updatedAt": 1776699951566,
+  "schemaVersion": 1
+}

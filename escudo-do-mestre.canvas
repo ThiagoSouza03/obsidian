@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"262e35e9d38c9425","x":-2300,"y":120,"width":700,"height":800,"type":"file","file":"Sessões/Sessão 4/Cena 1.md"},
+		{"id":"4ef73608510f707b","x":-1540,"y":120,"width":660,"height":800,"type":"file","file":"Sessões/Sessão 4/Cena 2.md"},
+		{"id":"3ff90dff07cc5178","x":-820,"y":120,"width":680,"height":800,"type":"file","file":"Sessões/Sessão 4/Cena 3.md"}
+	],
+	"edges":[]
+}
