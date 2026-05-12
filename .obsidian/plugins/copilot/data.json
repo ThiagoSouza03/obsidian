@@ -166,8 +166,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -176,8 +176,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -361,7 +361,7 @@
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.2.8",
   "passMarkdownImages": true,
   "enableAutonomousAgent": false,
   "enableCustomPromptTemplating": true,
@@ -396,5 +396,6 @@
   "defaultSendShortcut": "enter",
   "chatHistorySortStrategy": "recent",
   "projectListSortStrategy": "recent",
-  "userSystemPromptsFolder": "copilot/system-prompts"
+  "userSystemPromptsFolder": "copilot/system-prompts",
+  "miyoSearchAll": false
 }

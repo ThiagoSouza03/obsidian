@@ -1,5 +1,3 @@
-# Zereth Vaal – Senhor do Crime
-
 ## Espécie
 - Twi’lek
 
@@ -58,3 +56,25 @@ Tudo conectado por uma coisa: **dívida.**
 - Centro de comércio ilegal  
 - Zona cinzenta política  
 - Fácil de desaparecer… ou fazer alguém desaparecer
+# **RELAÇÃO COM LIO**
+
+Zereth não odeia Lio.
+
+Nem respeita.
+
+---
+
+Ele enxerga Lio como:
+
+> “um ativo eficiente… substituível.”
+
+---
+
+Isso é o que torna tudo pior:
+
+- Lio é bom
+- talvez o melhor
+
+Mas…
+
+> **isso não o torna importante.**

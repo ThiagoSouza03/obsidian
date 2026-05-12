@@ -1,8 +1,28 @@
 {
 	"nodes":[
-		{"id":"262e35e9d38c9425","x":-2300,"y":120,"width":700,"height":800,"type":"file","file":"Sessões/Sessão 4/Cena 1.md"},
-		{"id":"4ef73608510f707b","x":-1540,"y":120,"width":660,"height":800,"type":"file","file":"Sessões/Sessão 4/Cena 2.md"},
-		{"id":"3ff90dff07cc5178","x":-820,"y":120,"width":680,"height":800,"type":"file","file":"Sessões/Sessão 4/Cena 3.md"}
+		{"id":"b9bc5f8f009b783a","type":"group","x":-5240,"y":-640,"width":1440,"height":1020,"label":"Cena do Lio"},
+		{"id":"982378731b48fb7b","type":"group","x":-3640,"y":-1320,"width":1340,"height":520,"label":"Cena do Vex"},
+		{"id":"3ab1afda72ee81f4","type":"file","file":"Sessões/Sessão 4/Encontro do Vex/A conexão do Vex com a história.md","x":-3620,"y":-1280,"width":540,"height":460},
+		{"id":"e6b78e5fb1b53244","type":"file","file":"Sessões/Sessão 4/Encontro com Lio/Envolvimento de Zareth com o Darth Cinder.md","x":-4540,"y":-620,"width":720,"height":440},
+		{"id":"350a4998ff8ff331","type":"file","file":"Sessões/Sessão 4/Encontro com Lio/Encontro do Lio.md","x":-4540,"y":-80,"width":720,"height":440},
+		{"id":"6a7ed39fffbb9cd3","type":"file","file":"Inimigos e Antagonistas/Zereth Vaal – Senhor do Crime.md","x":-5210,"y":-620,"width":560,"height":400},
+		{"id":"262e35e9d38c9425","type":"file","file":"Sessões/Sessão 4/Cenas da sessão/Cena 1.md","x":-3700,"y":-620,"width":1300,"height":960},
+		{"id":"0d5fe78a380b2416","type":"file","file":"Sessões/Sessão 4/Encontro do Vex/Cena do Vex.md","x":-2960,"y":-1290,"width":620,"height":480},
+		{"id":"0948a9d58df9903d","type":"file","file":"Imagens e token/image-removebg-preview (15).png","x":-5099,"y":-140,"width":339,"height":399},
+		{"id":"4ef73608510f707b","type":"file","file":"Sessões/Sessão 4/Cenas da sessão/Cena 2.md","x":-3630,"y":480,"width":1100,"height":740},
+		{"id":"3ff90dff07cc5178","type":"file","file":"Sessões/Sessão 4/Cenas da sessão/Cena 3.md","x":-3630,"y":1320,"width":1100,"height":1000}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"12cc3af9dfad92f5","fromNode":"6a7ed39fffbb9cd3","fromSide":"right","toNode":"e6b78e5fb1b53244","toSide":"left"},
+		{"id":"f7aa565c22bf9ffa","fromNode":"e6b78e5fb1b53244","fromSide":"bottom","toNode":"350a4998ff8ff331","toSide":"top"},
+		{"id":"3c89bd473795a756","fromNode":"3ab1afda72ee81f4","fromSide":"bottom","toNode":"262e35e9d38c9425","toSide":"top"},
+		{"id":"3305ef08daaff1fe","fromNode":"0d5fe78a380b2416","fromSide":"bottom","toNode":"262e35e9d38c9425","toSide":"top"},
+		{"id":"53d6ed90b17a50b4","fromNode":"0d5fe78a380b2416","fromSide":"right","toNode":"4ef73608510f707b","toSide":"right"},
+		{"id":"c9df62139f17dd84","fromNode":"4ef73608510f707b","fromSide":"bottom","toNode":"3ff90dff07cc5178","toSide":"top"},
+		{"id":"3c2b29067082e01b","fromNode":"262e35e9d38c9425","fromSide":"bottom","toNode":"4ef73608510f707b","toSide":"top"},
+		{"id":"5e71f3327fea02fa","fromNode":"982378731b48fb7b","fromSide":"right","toNode":"262e35e9d38c9425","toSide":"right"},
+		{"id":"e01a989fa32c33d9","fromNode":"0948a9d58df9903d","fromSide":"top","toNode":"6a7ed39fffbb9cd3","toSide":"bottom"},
+		{"id":"555873acba66d6e1","fromNode":"b9bc5f8f009b783a","fromSide":"right","toNode":"262e35e9d38c9425","toSide":"left"},
+		{"id":"7d33ca3e8853e993","fromNode":"0948a9d58df9903d","fromSide":"right","toNode":"e6b78e5fb1b53244","toSide":"left"}
+	]
 }

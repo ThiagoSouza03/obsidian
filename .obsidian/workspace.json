@@ -4,49 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "36b88b34a4e77386",
+        "id": "9d98cbddc21b4b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "2700d7292bc12261",
+            "id": "7fe1abd7434e70d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessões/Sessão 3/Sessão 3.md",
-                "mode": "source",
-                "source": false
+                "file": "escudo-do-mestre.canvas",
+                "viewState": {
+                  "x": -3145.2813657078,
+                  "y": 378.6621255539379,
+                  "zoom": -0.6416029302682359
+                }
               },
-              "icon": "lucide-file",
-              "title": "Sessão 3"
-            }
-          },
-          {
-            "id": "01ddd18179deef72",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
-          },
-          {
-            "id": "2eb4465810317c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/Sem título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título"
+              "icon": "lucide-layout-dashboard",
+              "title": "escudo-do-mestre"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,16 +164,6 @@
             }
           },
           {
-            "id": "f5edd848ca5b27c5",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
             "id": "d22622e697502b55",
             "type": "leaf",
             "state": {
@@ -206,11 +174,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 217.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,19 +198,30 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "2eb4465810317c90",
+  "active": "7fe1abd7434e70d9",
   "lastOpenFiles": [
-    "Sessões/Sessão 4/Cena 3.md",
-    "DM/Sem título.md",
-    "Sessões/Sessão 4/Cena 2.md",
-    "Sessões/Sessão 1/Cena 1.md",
-    "Sessões/Sessão 4/Cena 1.md",
-    "Sessões/Sessão 3/Sessão 3.md",
-    "Sessões/Sessão 2/Savarren.md",
+    "Sessões/Sessão 4/Encontro com Lio/Encontro do Lio.md",
     "escudo-do-mestre.canvas",
-    "Sessões/Sessão 4",
+    "Sessões/Sessão 4/Cenas da sessão/Cena 1.md",
+    "Imagens e token",
+    "Inimigos e Antagonistas/Zereth Vaal – Senhor do Crime.md",
+    "Imagens e token/image-removebg-preview (15).png",
+    "Pasted image 20260430145104.jpg",
+    "Sessões/Sessão 4/Encontro do Vex/A conexão do Vex com a história.md",
+    "Sessões/Sessão 4/Encontro do Vex/Cena do Vex.md",
+    "Sessões/Sessão 4/Encontro do Vex",
+    "Sessões/Sessão 4/Encontro com Lio/Envolvimento de Zareth com o Darth Cinder.md",
+    "Sessões/Sessão 4/Encontro com Lio",
+    "Sessões/Sessão 4/Cenas da sessão/Cena 2.md",
+    "Sessões/Sessão 4/Cenas da sessão/Cena 3.md",
+    "Sessões/Sessão 4/Cenas da sessão",
+    "Sessões/Sessão 3/Sessão 3.md",
     "Sessões/Sessão 3/Tabela de efeitos do Kyber Cristal.md",
     "Templates/Sith Trooper.md",
+    "DM/Sem título.md",
+    "Sessões/Sessão 1/Cena 1.md",
+    "Sessões/Sessão 2/Savarren.md",
+    "Sessões/Sessão 4",
     "Templates/Wraid alfa corrompido.md",
     "Índice.md",
     "Templates/Template de Iniciativa.md",
@@ -257,22 +236,12 @@
     "Inimigos e Antagonistas",
     "Sessões",
     "DM",
-    "Templates",
     "Sessões/Sessão 1/Inimigos.md",
     "Sessões/Sessão 1/Cenas 3.md",
     "Sessões/Sessão 1/Cena 2.md",
-    "Sessões/Sessão 1",
-    "Sessões/Sessão 2/Inimigos.md",
-    "Sessões/Sessão 2/Cena 3.md",
-    "Sessões/Sessão 2/Cena 2.md",
-    "Sessões/Sessão 2/Cena 1.md",
-    "Sessões/Sessão 2",
     "Pasted image 20260327182237.png",
-    "RPG/Star Wars/Sessão 2/Inimigos.md",
-    "RPG/Star Wars/Sessão 2/Cena 3.md",
     "Pasted image 20260327182314.png",
     "Pasted image 20260327182243.png",
-    "RPG/Star Wars/Sessão 2",
     "Untitled.canvas"
   ]
 }
