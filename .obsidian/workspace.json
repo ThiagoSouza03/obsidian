@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9d98cbddc21b4b2a",
+        "id": "c2e2c5182a3d38f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7fe1abd7434e70d9",
+            "id": "03d8d2df25bcd5c9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "escudo-do-mestre.canvas",
                 "viewState": {
-                  "x": -3145.2813657078,
-                  "y": 378.6621255539379,
-                  "zoom": -0.6416029302682359
+                  "x": -2166.2580967662666,
+                  "y": -419.52659092444685,
+                  "zoom": -2.310957618279765
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -198,10 +198,30 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "7fe1abd7434e70d9",
+  "active": "03d8d2df25bcd5c9",
   "lastOpenFiles": [
-    "Sessões/Sessão 4/Encontro com Lio/Encontro do Lio.md",
     "escudo-do-mestre.canvas",
+    "DM/Aliados e npc neutros/MESTRA TAREL VOSS.md",
+    "DM/Aliados e npc neutros/MESTRE CORVAK TESH.md",
+    "DM/Aliados e npc neutros/MESTRE HALREN VOS.md",
+    "DM/Aliados e npc neutros/MESTRE ODAN VAREL.md",
+    "DM/Mapas/Tython/ChatGPT Image 13 de mai. de 2026, 16_15_44 1.png",
+    "DM/Mapas/Tython/ChatGPT Image 13 de mai. de 2026, 16_15_44.png",
+    "DM/Mapas/Tython/Mapa hangar grid.png",
+    "DM/Mapas/Tython/mapa hangar conceitual.png",
+    "DM/Aliados e npc neutros/MESTRA SERIS TAL.md",
+    "DM/Aliados e npc neutros/MESTRE DREN KOT.md",
+    "Sessões/Sessão 5/Cena 3.md",
+    "Sessões/Sessão 5/Cena 2.md",
+    "Sessões/Sessão 5/Cena 1.md",
+    "Sessões/Sessão 5",
+    "DM/Mapas/Tython",
+    "DM/Mapas",
+    "DM/Inimigos e Antagonistas/Zereth Vaal – Senhor do Crime.md",
+    "DM/Inimigos e Antagonistas",
+    "DM/Aliados e npc neutros/MESTRA YELARA VENN.md",
+    "DM/Aliados e npc neutros",
+    "Sessões/Sessão 4/Encontro com Lio/Encontro do Lio.md",
     "Sessões/Sessão 4/Cenas da sessão/Cena 1.md",
     "Imagens e token",
     "Inimigos e Antagonistas/Zereth Vaal – Senhor do Crime.md",
@@ -222,23 +242,7 @@
     "Sessões/Sessão 1/Cena 1.md",
     "Sessões/Sessão 2/Savarren.md",
     "Sessões/Sessão 4",
-    "Templates/Wraid alfa corrompido.md",
-    "Índice.md",
-    "Templates/Template de Iniciativa.md",
-    "Templates/Template de Teste.md",
-    "Inimigos e Antagonistas/bicho burro mas forte.md",
-    "roteiro-da-sessaop.md",
-    "Bem-vindo.md",
-    "Drawing 2026-04-15 18.23.06.excalidraw.md",
     "Pasted image 20260415181917.png",
-    "Sessões/Sessão 3",
-    "Livros e Documentos",
-    "Inimigos e Antagonistas",
-    "Sessões",
-    "DM",
-    "Sessões/Sessão 1/Inimigos.md",
-    "Sessões/Sessão 1/Cenas 3.md",
-    "Sessões/Sessão 1/Cena 2.md",
     "Pasted image 20260327182237.png",
     "Pasted image 20260327182314.png",
     "Pasted image 20260327182243.png",

@@ -1,28 +1,29 @@
 {
 	"nodes":[
-		{"id":"b9bc5f8f009b783a","type":"group","x":-5240,"y":-640,"width":1440,"height":1020,"label":"Cena do Lio"},
-		{"id":"982378731b48fb7b","type":"group","x":-3640,"y":-1320,"width":1340,"height":520,"label":"Cena do Vex"},
-		{"id":"3ab1afda72ee81f4","type":"file","file":"Sessões/Sessão 4/Encontro do Vex/A conexão do Vex com a história.md","x":-3620,"y":-1280,"width":540,"height":460},
-		{"id":"e6b78e5fb1b53244","type":"file","file":"Sessões/Sessão 4/Encontro com Lio/Envolvimento de Zareth com o Darth Cinder.md","x":-4540,"y":-620,"width":720,"height":440},
-		{"id":"350a4998ff8ff331","type":"file","file":"Sessões/Sessão 4/Encontro com Lio/Encontro do Lio.md","x":-4540,"y":-80,"width":720,"height":440},
-		{"id":"6a7ed39fffbb9cd3","type":"file","file":"Inimigos e Antagonistas/Zereth Vaal – Senhor do Crime.md","x":-5210,"y":-620,"width":560,"height":400},
-		{"id":"262e35e9d38c9425","type":"file","file":"Sessões/Sessão 4/Cenas da sessão/Cena 1.md","x":-3700,"y":-620,"width":1300,"height":960},
-		{"id":"0d5fe78a380b2416","type":"file","file":"Sessões/Sessão 4/Encontro do Vex/Cena do Vex.md","x":-2960,"y":-1290,"width":620,"height":480},
-		{"id":"0948a9d58df9903d","type":"file","file":"Imagens e token/image-removebg-preview (15).png","x":-5099,"y":-140,"width":339,"height":399},
-		{"id":"4ef73608510f707b","type":"file","file":"Sessões/Sessão 4/Cenas da sessão/Cena 2.md","x":-3630,"y":480,"width":1100,"height":740},
-		{"id":"3ff90dff07cc5178","type":"file","file":"Sessões/Sessão 4/Cenas da sessão/Cena 3.md","x":-3630,"y":1320,"width":1100,"height":1000}
+		{"id":"2dfd10f6dc02e122","type":"file","file":"DM/Aliados e npc neutros/MESTRE DREN KOT.md","x":-3470,"y":-1160,"width":400,"height":400},
+		{"id":"3bd65ecde28fa9fa","type":"file","file":"DM/Aliados e npc neutros/MESTRE ODAN VAREL.md","x":-3970,"y":-1160,"width":400,"height":400},
+		{"id":"7ec32a7659185928","type":"file","file":"DM/Aliados e npc neutros/MESTRA SERIS TAL.md","x":-2950,"y":-1160,"width":400,"height":400},
+		{"id":"31e27f0e29c76247","type":"file","file":"Sessões/Sessão 5/Cena 1.md","x":-3970,"y":-200,"width":1100,"height":580},
+		{"id":"535a740a7810825e","x":-1720,"y":-1741,"width":400,"height":400,"type":"file","file":"DM/Aliados e npc neutros/MESTRE HALREN VOS.md"},
+		{"id":"2ffd360b90e4c732","x":-1100,"y":-1741,"width":400,"height":400,"type":"file","file":"DM/Aliados e npc neutros/MESTRA YELARA VENN.md"},
+		{"id":"bced43266117c1b2","x":-520,"y":-1741,"width":400,"height":400,"type":"file","file":"DM/Aliados e npc neutros/MESTRE CORVAK TESH.md"},
+		{"id":"6876e4a0cc0565d2","x":-2320,"y":-1640,"width":400,"height":400,"type":"file","file":"DM/Aliados e npc neutros/MESTRA TAREL VOSS.md"},
+		{"id":"02617d61d3659c16","type":"file","file":"Sessões/Sessão 5/Cena 2.md","x":-2270,"y":-180,"width":1100,"height":560},
+		{"id":"84314e151c8d2f30","type":"file","file":"Sessões/Sessão 5/Cena 3.md","x":-700,"y":-200,"width":1100,"height":580}
 	],
 	"edges":[
-		{"id":"12cc3af9dfad92f5","fromNode":"6a7ed39fffbb9cd3","fromSide":"right","toNode":"e6b78e5fb1b53244","toSide":"left"},
-		{"id":"f7aa565c22bf9ffa","fromNode":"e6b78e5fb1b53244","fromSide":"bottom","toNode":"350a4998ff8ff331","toSide":"top"},
-		{"id":"3c89bd473795a756","fromNode":"3ab1afda72ee81f4","fromSide":"bottom","toNode":"262e35e9d38c9425","toSide":"top"},
-		{"id":"3305ef08daaff1fe","fromNode":"0d5fe78a380b2416","fromSide":"bottom","toNode":"262e35e9d38c9425","toSide":"top"},
-		{"id":"53d6ed90b17a50b4","fromNode":"0d5fe78a380b2416","fromSide":"right","toNode":"4ef73608510f707b","toSide":"right"},
-		{"id":"c9df62139f17dd84","fromNode":"4ef73608510f707b","fromSide":"bottom","toNode":"3ff90dff07cc5178","toSide":"top"},
-		{"id":"3c2b29067082e01b","fromNode":"262e35e9d38c9425","fromSide":"bottom","toNode":"4ef73608510f707b","toSide":"top"},
-		{"id":"5e71f3327fea02fa","fromNode":"982378731b48fb7b","fromSide":"right","toNode":"262e35e9d38c9425","toSide":"right"},
-		{"id":"e01a989fa32c33d9","fromNode":"0948a9d58df9903d","fromSide":"top","toNode":"6a7ed39fffbb9cd3","toSide":"bottom"},
-		{"id":"555873acba66d6e1","fromNode":"b9bc5f8f009b783a","fromSide":"right","toNode":"262e35e9d38c9425","toSide":"left"},
-		{"id":"7d33ca3e8853e993","fromNode":"0948a9d58df9903d","fromSide":"right","toNode":"e6b78e5fb1b53244","toSide":"left"}
+		{"id":"24557f52452c7a84","fromNode":"2dfd10f6dc02e122","fromSide":"bottom","toNode":"31e27f0e29c76247","toSide":"top"},
+		{"id":"fd944e8906ce9a3a","fromNode":"7ec32a7659185928","fromSide":"bottom","toNode":"31e27f0e29c76247","toSide":"top"},
+		{"id":"6a1e9a869175194b","fromNode":"2dfd10f6dc02e122","fromSide":"bottom","toNode":"02617d61d3659c16","toSide":"top"},
+		{"id":"8dd8d6280dffe2fe","fromNode":"7ec32a7659185928","fromSide":"bottom","toNode":"02617d61d3659c16","toSide":"top"},
+		{"id":"c65b394d5c622336","fromNode":"3bd65ecde28fa9fa","fromSide":"bottom","toNode":"31e27f0e29c76247","toSide":"top"},
+		{"id":"9a2cfd44501e534d","fromNode":"3bd65ecde28fa9fa","fromSide":"bottom","toNode":"02617d61d3659c16","toSide":"top"},
+		{"id":"682b4aceb5a75164","fromNode":"6876e4a0cc0565d2","fromSide":"bottom","toNode":"02617d61d3659c16","toSide":"top"},
+		{"id":"7cb1c16c887ea6ac","fromNode":"535a740a7810825e","fromSide":"bottom","toNode":"02617d61d3659c16","toSide":"top"},
+		{"id":"ce1dcd2fd414a16b","fromNode":"02617d61d3659c16","fromSide":"top","toNode":"2ffd360b90e4c732","toSide":"bottom"},
+		{"id":"03ea53849d36a81f","fromNode":"bced43266117c1b2","fromSide":"bottom","toNode":"02617d61d3659c16","toSide":"top"},
+		{"id":"13832b60fd9d781f","fromNode":"7ec32a7659185928","fromSide":"right","toNode":"84314e151c8d2f30","toSide":"left"},
+		{"id":"ce14ee62dc50a230","fromNode":"2dfd10f6dc02e122","fromSide":"right","toNode":"84314e151c8d2f30","toSide":"left"},
+		{"id":"0e507252d7b0fc75","fromNode":"3bd65ecde28fa9fa","fromSide":"right","toNode":"84314e151c8d2f30","toSide":"left"}
 	]
 }
