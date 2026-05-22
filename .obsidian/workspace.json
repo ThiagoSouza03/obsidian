@@ -15,9 +15,9 @@
               "state": {
                 "file": "escudo-do-mestre.canvas",
                 "viewState": {
-                  "x": -2166.2580967662666,
-                  "y": -419.52659092444685,
-                  "zoom": -2.310957618279765
+                  "x": -1080.7395167271102,
+                  "y": -1882.4411578877662,
+                  "zoom": -1.6442909516130984
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 310.5
   },
   "right": {
     "id": "7a0012b81d5428cc",
