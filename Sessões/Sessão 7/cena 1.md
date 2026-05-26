@@ -1,289 +1,145 @@
-CENA 1 — O MUNDO MORTO
-Objetivo da Cena
+# 📜 Cena 1 — Ecos de Mal’Korath
 
+## 🎯 Objetivo da Cena
 Essa cena serve para:
+- Mostrar o peso histórico de **Mal’Korath**  
+- Aprofundar cada personagem individualmente  
+- Criar conexão emocional com o planeta  
+- Revelar fragmentos da antiga batalha  
+- Iniciar lentamente os mistérios da Fornalha e do Imperador  
+- Preparar o grupo para entrar no templo na Cena 2  
+
+⚠️ **Essa NÃO é uma cena de ação.**  
+Ela é: contemplativa, melancólica, opressiva, quase espiritual.
+
+---
+
+## 📍 Início da Cena
+O grupo já está diante do antigo templo Sith.  
+
+A estrutura colossal se ergue parcialmente enterrada entre montanhas negras e ruínas destruídas pelo tempo.  
 
-apresentar MAL’KORATH;
-criar atmosfera e tensão;
-mostrar que o planeta é antigo e errado;
-iniciar o mistério do Imperador;
-preparar emocionalmente o grupo antes do templo.
+O céu permanece coberto por nuvens vermelhas.  
+Relâmpagos silenciosos iluminam o horizonte.  
 
-O templo ainda NÃO aparece.
-
-A sensação deve ser:
-
-isolamento;
-silêncio;
-desconforto;
-presença constante do lado sombrio.
-📍 ABERTURA DA CENA
-Narração Inicial
-
-A rampa da nave se abre lentamente.
-
-Um vento frio atravessa o interior da nave.
-
-Seco.
-
-Pesado.
-
-O céu de MAL’KORATH é coberto por nuvens escuras e tempestades vermelhas que cortam o horizonte em silêncio.
-
-Não existem sons de vida.
-
-Nenhum animal.
-
-Nenhum movimento.
-
-Apenas ruínas.
-
-Montanhas negras.
-
-E uma sensação crescente de que vocês não deveriam estar aqui.
-
-Deixe alguns segundos para os jogadores reagirem.
-
-Pergunte:
-
-quem sai primeiro;
-quem está armado;
-quem permanece atento;
-o que pretendem fazer.
-
-Não acelere os eventos.
-
-🔹 BLOCO 1 — PRIMEIROS PASSOS
-
-Assim que começarem a explorar:
-
-O solo sob seus pés parece irregular.
-
-Rocha negra misturada com areia avermelhada.
-
-Em alguns pontos, o chão possui rachaduras que emitem um brilho vermelho muito fraco.
-
-O ar tem gosto metálico.
-
-E o silêncio do planeta é tão absoluto…
-
-que até os passos parecem errados.
-
-O grupo pode:
-
-investigar os arredores;
-analisar a nave;
-procurar rotas;
-estudar o holocron;
-descansar;
-observar as ruínas.
-🔹 BLOCO 2 — AS ESTÁTUAS
-
-Enquanto avançam pelo terreno…
-
-eles encontram ruínas parcialmente soterradas.
-
-Primeiro parecem pedras.
-
-Depois percebem a escala real.
-
-Narração
-
-Conforme avançam…
-
-vocês percebem que aquilo que parecia parte de uma montanha…
-
-era uma estátua.
-
-Gigantesca.
-
-Derrubada há séculos.
-
-O rosto foi destruído.
-
-Símbolos foram raspados da pedra.
-
-E uma espada colossal ainda permanece presa em uma das mãos quebradas da figura.
-
-Se investigarem:
-
-existem marcas de batalha;
-cortes profundos;
-danos causados por sabres de luz;
-partes derretidas.
-A Visão de Kael
-
-Se Kael tocar a estátua:
-
-Quando sua mão toca a pedra…
-
-o mundo desaparece por um instante.
-
-Então descreva flashes rápidos:
-
-fogo;
-sabres vermelhos;
-Jedi caindo;
-pessoas ajoelhadas;
-explosões;
-uma presença gigantesca;
-olhos dourados observando do alto.
-
-Então termina imediatamente.
-
-A visão dura menos de um segundo.
-
-Mas seu coração dispara como se tivesse vivido tudo aquilo.
-
-Zyan talvez observe Kael em silêncio.
-
-Como alguém reconhecendo o que aconteceu.
-
-🔹 BLOCO 3 — OS ECOS
-
-Enquanto continuam explorando…
-
-o comunicador de Vex começa a chiar.
-
-Patch reage imediatamente.
-
-Narração
-
-O som surge baixo.
-
-Quase imperceptível.
-
-Como uma transmissão antiga tentando atravessar estática.
-
-Então os fragmentos aparecem.
-
-Fragmentos da transmissão
-
-“Setor leste comprometido!”
-
-“Recuem!”
-
-“A fornalha foi ativada…”
-
-“Repito… a fornalha foi ativada!”
-
-[gritos]
-
-[explosões]
-
-[interferência]
-
-Então tudo desaparece.
-
-Se Vex analisar:
-
-o sinal não é recente;
-parece extremamente antigo;
-mas tecnicamente ainda está “ativo”.
-🔹 BLOCO 4 — O CÉU
-
-Essa parte deve acontecer quando o grupo estiver começando a se sentir minimamente seguro.
-
-Talvez:
-
-conversando;
-planejando;
-investigando.
-
-Então:
-
-O céu escurece repentinamente.
-
-Não pelas nuvens.
-
-Mas por alguma coisa passando acima delas.
-
-Silêncio.
-
-Por alguns segundos…
-
-vocês veem apenas:
-
-uma sombra colossal;
-
-movimento lento;
-
-e dois pontos vermelhos brilhando entre as nuvens.
-
-Então desaparece.
-
-O vento volta.
-
-Zyan imediatamente leva a mão ao sabre.
-
-Pela primeira vez desde que chegaram…
-
-ele parece genuinamente assustado.
-
-“Nós não estamos sozinhos.”
-
-🔹 BLOCO 5 — O HOLOCRON
-
-Quando o grupo decide:
-
-descansar;
-montar acampamento;
-ou continuar avançando;
-
-o holocron reage sozinho.
-
-Narração
-
-As partes do holocron começam lentamente a se mover.
-
-Sem mecanismos.
-
-Sem som.
-
-Como se o objeto estivesse vivo.
-
-Runas vermelhas aparecem.
-
-Uma projeção incompleta surge no ar.
-
-Ela mostra:
-
-símbolos Sith;
-uma direção;
-e corredores antigos.
-
-Kael sente o significado das runas pela Força.
-
-Não como tradução.
-
-Como sensação.
-
-“A porta permanece selada enquanto os indignos caminharem.”
-
-Silêncio.
-
-Então a projeção muda.
-
-Por apenas um segundo…
-
-um trono aparece.
-
-Escuro.
-Distante.
-
-E alguém está sentado nele.
-
-Não é possível ver o rosto.
-
-Apenas:
-
-uma silhueta;
-e olhos dourados observando diretamente o grupo.
-
-Então a projeção falha.
-
-O holocron se fecha.
-
-Silêncio absoluto.
-
-E a cena termina.
+**Narração Inicial**  
+O templo diante de vocês parece menos uma construção…  
+e mais uma cicatriz deixada no planeta.  
+
+Partes inteiras da estrutura foram destruídas.  
+Torres colapsadas.  
+Estátuas quebradas.  
+Corredores expostos pelas marcas de antigas explosões.  
+
+Ao redor do templo…  
+restos de uma guerra esquecida ainda permanecem espalhados pelo chão de Mal’Korath.  
+
+---
+
+## 🔹 Lio — As Cicatrizes da Guerra
+**Observa:** destroços, marcas de impacto, restos de naves, crateras, linhas de ataque.  
+Ele percebe rapidamente: não foi apenas uma batalha. Foi um massacre.  
+
+**Narração**  
+Entre as ruínas espalhadas ao redor do templo… você reconhece restos de cruzadores antigos.  
+Alguns partidos ao meio. Outros completamente derretidos.  
+
+### Teste — Conhecimento (Tecnologia / Pilotagem)
+
+| CD | Resultado |
+|----|-----------|
+| 10 | Existem destroços de naves Sith e Republicanas misturados. |
+| 15 | Algumas marcas não foram causadas por armas convencionais. |
+| 20 | Parte das naves sofreu colapso energético interno instantâneo. |
+| 25 | Estruturas metálicas parecem “fundidas” como se expostas ao núcleo de uma estrela. |
+| 30 | Restos de fragata Sith consumida por energia ligada à Força. |
+| 20 Natural | Parte da destruição parece ter vindo **de dentro** do templo. |
+
+---
+
+## 🔹 Vex — As Vozes Presas no Ar
+O sistema improvisado de Vex reage estranhamente.  
+Pequenas interferências atravessam os equipamentos: sons, fragmentos, frequências impossíveis.  
+
+### Teste — Tecnologia / Computação
+
+| CD | Resultado |
+|----|-----------|
+| 10 | Milhares de sinais fragmentados viajam pela atmosfera. |
+| 15 | Alguns sinais são extremamente antigos… mas continuam ativos. |
+| 20 | Tempestades eletromagnéticas “prendem” frequências por séculos. |
+| 25 | Certas transmissões se repetem em padrões próximos ao templo. |
+| 30 | Algumas frequências parecem responder ao holocron. |
+| 20 Natural | Uma transmissão ativa surge abaixo do templo… e alguém parece ouvir vocês de volta. |
+
+**Fragmentos da Fornalha**  
+- CD 10: “Setor leste comprometido…”  
+- CD 15: “Recuem imediatamente!”  
+- CD 20: “A Fornalha foi ativada…”  
+- CD 25: “A contenção falhou! Repito… a contenção falhou!”  
+- CD 30: “Se a reação continuar… o núcleo vai abrir!” [explosões] [gritos] “Ele ainda está lá dentro!”  
+
+---
+
+## 🔹 Kael — Os Ecos da Luz
+Kael sente imediatamente os ecos da Força — apenas dos que morreram na luz.  
+
+### Teste — Usar a Força
+
+| CD | Resultado |
+|----|-----------|
+| 10 | Muitos Jedi morreram aqui. |
+| 15 | Alguns lutaram até o último momento. |
+| 20 | Muitos se sacrificaram para impedir algo pior. |
+| 25 | Alguns ecos ainda esperam alguém retornar. |
+| 30 | Um Jedi extremamente poderoso caiu dentro do templo… seguido por explosão gigantesca na Força. |
+| 20 Natural | Um eco olha diretamente para você e sussurra: “Ele nunca saiu.” |
+
+---
+
+## 🔹 Kalkar — Ecos da Guerra
+Kalkar sente dor, ódio, medo, desespero.  
+A Força aqui não é silenciosa. Ela grita.  
+
+### Teste — Usar a Força
+
+| CD | Resultado |
+|----|-----------|
+| 10 | A batalha foi brutal e pessoal. |
+| 15 | Muitos Sith morreram protegendo o templo. |
+| 20 | Você sente desespero além da guerra. |
+| 25 | Parte dos ecos Sith parecem aterrorizados… como se temessem algo dentro do templo. |
+| 30 | Uma presença esmagadora fez Jedi e Sith recuarem ao mesmo tempo. |
+| 20 Natural | Você vê olhos dourados observando o campo de batalha… e eles observam você agora também. |
+
+---
+
+## 🔹 Zyan — As Memórias do Exilado
+Zyan não sente ecos. Ele **lembra**.  
+
+### Teste — Conhecimento / Memória / Usar a Força
+
+| CD | Resultado |
+|----|-----------|
+| 10 | Zyan lutou nesta batalha. |
+| 15 | Ele fazia parte do grupo que tentou invadir o templo. |
+| 20 | A batalha terminou quando a Fornalha foi ativada. |
+| 25 | Muitos Jedi morreram tentando impedir algo de despertar. |
+| 30 | Zyan lembra de Darth Malek entrando sozinho nas profundezas. |
+| 35 | O Imperador não estava presente… mas todos agiam como se fosse. |
+| 40 | Última visão: olhos dourados surgindo na escuridão abaixo do templo. |
+| 20 Natural | Uma memória retorna: “O corpo pode cair… mas o Trono jamais ficará vazio.” |
+
+---
+
+## 📍 Final da Cena
+Quando terminarem de explorar… o grupo percebe algo importante.  
+
+O templo está aberto.  
+Uma enorme passagem parcialmente destruída leva para dentro da estrutura.  
+
+Dela… um vento frio começa a sair lentamente.  
+O holocron reage imediatamente. Runas vermelhas brilham.  
+
+Então Zyan fala baixo, quase para si mesmo:  
+**“Nós chegamos tarde demais…”**
