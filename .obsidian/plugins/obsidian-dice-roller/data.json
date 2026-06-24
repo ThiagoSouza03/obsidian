@@ -90,6 +90,27 @@
       "resultText": "1d20\n[3]",
       "timestamp": 1779504966185,
       "id": "MqCQwWcHcfOM"
+    },
+    {
+      "result": "3",
+      "original": "1d20",
+      "resultText": "1d20\n[3]",
+      "timestamp": 1781916782561,
+      "id": "7ATTtHhy41l6"
+    },
+    {
+      "result": "15",
+      "original": "1d20",
+      "resultText": "1d20\n[15]",
+      "timestamp": 1781920108081,
+      "id": "IVXgbu2JvVp3"
+    },
+    {
+      "result": "21",
+      "original": "5d6",
+      "resultText": "5d6\n[5, 5, 5, 5, 1]",
+      "timestamp": 1781920239709,
+      "id": "CJGpTa-JXasJ"
     }
   ]
 }
