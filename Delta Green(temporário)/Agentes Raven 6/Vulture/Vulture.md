@@ -91,3 +91,4 @@ O Guardião/Mestre tem a prerrogativa oculta de introduzir **Informações Visua
 * **Anomalias em Registros:** Encontrar uma silhueta borrada ao fundo de uma fotografia recente, vestindo o mesmo uniforme tático de 2005.
 
 **A Regra de Ouro da Paranoia:** O Guardião nunca dirá se a imagem é um perigo real iminente, uma pista legítima sobre o culto em 2026 ou apenas a mente de Vulture projetando os traumas do Egito. O jogador deve decidir se gasta recursos e tempo investigando o delírio ou se ignora o que pode ser uma ameaça real à sua vida.
+
