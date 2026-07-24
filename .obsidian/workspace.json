@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de3dc72e91fb94b3",
+        "id": "9024a48189ac2fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "14fa231cf70c2de7",
+            "id": "629f04cd31894ac3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "escudo-do-mestre.canvas",
-                "viewState": {
-                  "x": 614.4790129416583,
-                  "y": 1395.6321363674904,
-                  "zoom": -0.48614175276287586
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "escudo-do-mestre"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -64,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -198,55 +191,55 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "123f4a707c173aae",
+  "active": "629f04cd31894ac3",
   "lastOpenFiles": [
-    "Imagens e token/image-removebg-preview (15).png",
-    "escudo-do-mestre.canvas",
+    "Sessões/Sessão 11/Cena 3.md",
+    "Sessões/Sessão 11/Cena 2.md",
+    "Sessões/Sessão 11/Cena 1.md",
+    "Sessões/Sessão 11",
+    "Sessões/sessão 9/cena 3.md",
+    "Sessões/sessão 9/cena 2.md",
+    "Sessões/sessão 9/cena 1.md",
+    "Sessões/sessão 9",
+    "Sem título.canvas",
+    "Excalidraw/Drawing 2026-06-26 21.23.27.excalidraw.md",
+    "Excalidraw",
+    "Delta Green(temporário)/Prologo House of Ashes.md",
+    "Delta Green(temporário)/Agentes Raven 6/Vulture/vulture.png",
+    "Delta Green(temporário)/Agentes Raven 6/Vulture/Vulture.md",
+    "Delta Green(temporário)/Agentes Raven 6/Vulture",
+    "Delta Green(temporário)/Agentes Raven 6/Relic/relic.png",
+    "Delta Green(temporário)/Agentes Raven 6/Relic/Relic.md",
+    "Delta Green(temporário)/Agentes Raven 6/Relic",
+    "Delta Green(temporário)/Agentes Raven 6/Oracle/oracle.png",
+    "Delta Green(temporário)/Agentes Raven 6/Oracle/Oracle.md",
+    "Delta Green(temporário)/Agentes Raven 6/Oracle",
+    "Delta Green(temporário)/Agentes Raven 6/Hex/hex.png",
+    "Delta Green(temporário)/Agentes Raven 6/Hex/Hex.md",
+    "Delta Green(temporário)/Agentes Raven 6/Hex",
+    "Delta Green(temporário)/Agentes Raven 6/Falcon/falcon.png",
+    "Delta Green(temporário)/Agentes Raven 6/Falcon/Falcon.md",
+    "Delta Green(temporário)/Agentes Raven 6/Echo/Echo.md",
+    "Delta Green(temporário)/Agentes Raven 6/Falcon",
+    "Delta Green(temporário)/Agentes Raven 6/Echo",
+    "Delta Green(temporário)/Agentes Raven 6",
+    "2026-06-26.md",
+    "Delta Green(temporário)/Agentes Raven 6/Vulture.md",
     "Sessões/Sessão 8/Cena 3.md",
-    "Sessões/Sessão 8/Cena 2.md",
     "Sessões/Sessão 8/Cena 1.md",
+    "Delta Green(temporário)/Agentes Raven 6/Echo.md",
+    "Delta Green(temporário)/Agentes Raven 6/Falcon.md",
+    "Delta Green(temporário)/Agentes Raven 6/Hex.md",
+    "Delta Green(temporário)/Agentes Raven 6/Oracle.md",
+    "Delta Green(temporário)/Agentes Raven 6/Relic.md",
+    "escudo-do-mestre.canvas",
+    "Imagens e token/image-removebg-preview (15).png",
+    "Sessões/Sessão 8/Cena 2.md",
     "Sessões/Sessão 6/Cena 1.md",
-    "Sessões/Sessão 8",
     "DM/Mapas/Mal'korath/ChatGPT Image 27 de mai. de 2026, 16_08_08.png",
     "DM/Mapas/Mal'korath/ChatGPT Image 22 de mai. de 2026, 21_04_11.png",
-    "DM/Mapas/Mal'korath/Mal'korath.md",
     "Dren Kot.png",
     "Ordan Varel.png",
-    "Seris Tal.png",
-    "Sessões/Sessão 7/cena 3.md",
-    "Sessões/Sessão 7/cena 2.md",
-    "Sessões/Sessão 7/cena 1.md",
-    "DM/Mapas/Tython/CNQh4.jpg",
-    "DM/Mapas/Tython/ChatGPT Image 22 de mai. de 2026, 19_17_41.png",
-    "DM/Mapas/Tython/ChatGPT Image 22 de mai. de 2026, 19_17_33.png",
-    "DM/Mapas/Tython/ChatGPT Image 21 de mai. de 2026, 12_38_15.png",
-    "DM/Mapas/Tython/ChatGPT Image 13 de mai. de 2026, 16_15_44 1.png",
-    "Sessões/Sessão 6/Cena 0 .md",
-    "DM/Mapas/Mal'korath",
-    "DM/Aliados e npc neutros/MESTRE ODAN VAREL.md",
-    "DM/Aliados e npc neutros/MESTRE DREN KOT.md",
-    "DM/Aliados e npc neutros/MESTRA SERIS TAL.md",
-    "Sessões/Sessão 6/Cena 4.md",
-    "Sessões/Sessão 6/Cena 3.md",
-    "Sessões/Sessão 6/Cena 2.md",
-    "Sessões/Sessão 6/texto Crawling.md",
-    "Sessões/Sessão 6/Lio nega/opção que o Lio nega.md",
-    "Sessões/Sessão 6/Lio aceita/opção que o Lio aceita.md",
-    "Sessões/Sessão 6/Lio nega",
-    "Sessões/Sessão 6/Lio aceita",
-    "Sessões/Sessão 6",
-    "DM/Aliados e npc neutros/MESTRA TAREL VOSS.md",
-    "DM/Aliados e npc neutros/MESTRE CORVAK TESH.md",
-    "DM/Aliados e npc neutros/MESTRE HALREN VOS.md",
-    "Sessões/Sessão 5/Cena 3.md",
-    "Sessões/Sessão 5/Cena 2.md",
-    "Sessões/Sessão 5/Cena 1.md",
-    "Sessões/Sessão 5",
-    "DM/Mapas/Tython",
-    "DM/Mapas",
-    "DM/Inimigos e Antagonistas/Zereth Vaal – Senhor do Crime.md",
-    "DM/Inimigos e Antagonistas",
-    "DM/Aliados e npc neutros",
     "Untitled.canvas"
   ]
 }
