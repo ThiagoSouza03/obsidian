@@ -83,19 +83,6 @@ Kalkar pode utilizar sua sensibilidade para perceber os ecos emocionais deixados
 A sensação desaparece imediatamente, impedindo qualquer tentativa de localizar sua origem.
 
 ---
-
-### Zyan — Fragmentos Perdidos
-
-A arquitetura da estação desperta em Zyan uma estranha sensação de familiaridade. Ele não reconhece o local, mas alguns detalhes parecem pertencer a lembranças que permanecem fora de seu alcance.
-
-**Teste:** Conhecimento (História Galáctica) ou teste definido pelo Mestre (CD 18)
-
-**Sucesso:** Zyan recorda vagamente instalações militares construídas durante a antiga guerra entre Jedi e Sith. Não consegue determinar quando ou onde as viu, apenas sente que aquele padrão arquitetônico pertence a um passado muito distante.
-
-**20 Natural:** Um fragmento de memória invade sua mente. Corredores metálicos, soldados Sith marchando em silêncio e uma criança escoltada por oficiais atravessando uma grande porta blindada. Antes que qualquer rosto possa ser identificado, a lembrança desaparece completamente.
-
----
-
 # Reações e Consequências
 
 Enquanto o grupo permanecer apenas observando a estação, nenhuma alteração significativa ocorre na rotina da base. As patrulhas seguem seus trajetos, os cruzadores mantêm suas posições e nenhuma comunicação é direcionada à nave dos personagens. Esse período pode ser prolongado conforme o Mestre julgar necessário, permitindo que diferentes personagens realizem suas análises sem gerar consequências imediatas.
