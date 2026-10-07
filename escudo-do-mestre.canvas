@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"a4a507fb5721ca5c","type":"file","file":"Sessões/Sessão 8/Cena 2.md","x":300,"y":-180,"width":840,"height":700},
-		{"id":"01f384716911261e","type":"file","file":"Sessões/Sessão 8/Cena 1.md","x":300,"y":-1200,"width":840,"height":880},
-		{"id":"352ef249110db1f2","type":"file","file":"Sessões/Sessão 8/Cena 3.md","x":300,"y":700,"width":840,"height":600}
+		{"id":"86248040f075ef62","x":2360,"y":80,"width":965,"height":782,"type":"file","file":"Templates/AT-ST Decrépito de Exibição.md"},
+		{"id":"8d375f84a2ede532","x":1400,"y":80,"width":800,"height":800,"type":"file","file":"Templates/A Lâmina Sem Nome.md"},
+		{"id":"d90a5fea89a030d9","x":1620,"y":-740,"width":1080,"height":720,"type":"file","file":"Sessões/Sessão 14/Cena 2/Os Jogos de Ilyn (Estrutura e Regras).md"}
 	],
 	"edges":[]
 }
