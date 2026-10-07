@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9024a48189ac2fa2",
+        "id": "ecb24104c4e33354",
         "type": "tabs",
         "children": [
           {
-            "id": "629f04cd31894ac3",
+            "id": "5bd68390c6530c88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/Inimigos e Antagonistas/Zereth Vaal – Senhor do Crime.md",
+                "file": "Templates/AT-ST Decrépito de Exibição.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zereth Vaal – Senhor do Crime"
+              "title": "AT-ST Decrépito de Exibição"
+            }
+          },
+          {
+            "id": "4ea2f16bdcf069ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessões/Sessão 15/Cena 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cena 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "right": {
     "id": "7a0012b81d5428cc",
@@ -175,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,52 +213,51 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "a3985e4b04986af3",
+  "active": "4ea2f16bdcf069ef",
   "lastOpenFiles": [
-    "Templates/Template de Nave.md",
-    "Templates/Druida (Droide Nível 3).md",
-    "Sessões/Sessão 12/Cena 3.md",
-    "Sessões/Sessão 12/Cena 2.md",
-    "Sessões/Sessão 12/Cena 1.md",
-    "Sessões/Sessão 12",
-    "Sessões/Sessão 11/Cena 3.md",
-    "Sessões/Sessão 11/Cena 2.md",
-    "Sessões/Sessão 11/Cena 1.md",
-    "Sessões/Sessão 11",
-    "Sessões/sessão 9/cena 3.md",
-    "Sessões/sessão 9/cena 2.md",
-    "Sessões/sessão 9/cena 1.md",
-    "Sessões/sessão 9",
-    "Sem título.canvas",
-    "Excalidraw/Drawing 2026-06-26 21.23.27.excalidraw.md",
-    "Excalidraw",
-    "Delta Green(temporário)/Prologo House of Ashes.md",
-    "Delta Green(temporário)/Agentes Raven 6/Vulture/vulture.png",
-    "Delta Green(temporário)/Agentes Raven 6/Vulture/Vulture.md",
-    "Delta Green(temporário)/Agentes Raven 6/Vulture",
-    "Delta Green(temporário)/Agentes Raven 6/Relic/relic.png",
-    "Delta Green(temporário)/Agentes Raven 6/Relic/Relic.md",
-    "Delta Green(temporário)/Agentes Raven 6/Relic",
-    "Delta Green(temporário)/Agentes Raven 6/Oracle/oracle.png",
-    "Delta Green(temporário)/Agentes Raven 6/Oracle/Oracle.md",
-    "Delta Green(temporário)/Agentes Raven 6/Oracle",
-    "Delta Green(temporário)/Agentes Raven 6/Hex/hex.png",
-    "Delta Green(temporário)/Agentes Raven 6/Hex/Hex.md",
-    "Delta Green(temporário)/Agentes Raven 6/Hex",
-    "Delta Green(temporário)/Agentes Raven 6/Falcon/falcon.png",
-    "Delta Green(temporário)/Agentes Raven 6/Falcon/Falcon.md",
-    "Delta Green(temporário)/Agentes Raven 6/Echo/Echo.md",
-    "Delta Green(temporário)/Agentes Raven 6/Falcon",
-    "Delta Green(temporário)/Agentes Raven 6/Echo",
-    "2026-06-26.md",
-    "Delta Green(temporário)/Agentes Raven 6/Vulture.md",
-    "Sessões/Sessão 8/Cena 3.md",
-    "Sessões/Sessão 8/Cena 1.md",
-    "Delta Green(temporário)/Agentes Raven 6/Echo.md",
-    "Delta Green(temporário)/Agentes Raven 6/Falcon.md",
-    "Delta Green(temporário)/Agentes Raven 6/Hex.md",
+    "Sessões/Sessão 15/Cena 1.md",
     "escudo-do-mestre.canvas",
+    "Templates/AT-ST Decrépito de Exibição.md",
+    "Templates/A Lâmina Sem Nome.md",
+    "Sessões/Sessão 14/Cena 2/Os Jogos de Ilyn (Estrutura e Regras).md",
+    "Sessões/Sessão 14/Cena 3/O Resgate de Patches.md",
+    "Sessões/Sessão 15/Cena 2.md",
+    "Templates/Matilha da Arena.md",
+    "Livros e Documentos/Equipamentos/Armas/Granada de Fragmento.md",
+    "Livros e Documentos/Poderes da Força/Poderes/Truque Mental.md",
+    "Templates/Duelista de Ilyn.md",
+    "Sessões/Sessão 13/Cena 2/Opção 1 — Lutar.md",
+    "DM/Inimigos e Antagonistas/Doth Kavarn.md",
+    "Sessões/Sessão 14/texto Crawling.md",
+    "Sessões/Sessão 14/Cena 1.md",
     "Imagens e token/image-removebg-preview (15).png",
+    "DM/Mapas/Ilyn/Estação Ilyn.md",
+    "Sessões/Sessão 14/Cena 2/Mapas de Combate - Prompts para IA de Imagem.md",
+    "Sessões/Sessão 14/Cena 2/A Venda.md",
+    "Livros e Documentos/Poderes da Força/Poderes/Arremeter.md",
+    "DM/Mapas/Ilyn",
+    "DM/Aliados e npc neutros/Patches.md",
+    "Sessões/Sessão 14/Cena 3",
+    "Sessões/Sessão 14/Cena 2",
+    "Sessões/Sessão 14",
+    "Livros e Documentos/Poderes da Força/Poderes/Aperto da Força.md",
+    "Livros e Documentos/Poderes da Força/Poderes/Atordoamento da Força.md",
+    "Livros e Documentos/Poderes da Força/Poderes/Repreender.md",
+    "Livros e Documentos/Poderes da Força/Poderes/Ataque de Batalha.md",
+    "Livros e Documentos/Poderes da Força/Poderes/Relâmpago da Força.md",
+    "Templates/Darth Cinder.md",
+    "Livros e Documentos/_to_delete/_staging_classes_prestigio.zip",
+    "Livros e Documentos/_to_delete",
+    "Livros e Documentos/Classes de Prestígio",
+    "Livros e Documentos/_staging_classes_prestigio.zip",
+    "Livros e Documentos/_to_delete/_staging_regras_d20.zip",
+    "Livros e Documentos/Regras (D20)/Veículos",
+    "Sem título.canvas",
+    "Delta Green(temporário)/Agentes Raven 6/Vulture/vulture.png",
+    "Delta Green(temporário)/Agentes Raven 6/Relic/relic.png",
+    "Delta Green(temporário)/Agentes Raven 6/Oracle/oracle.png",
+    "Delta Green(temporário)/Agentes Raven 6/Hex/hex.png",
+    "Delta Green(temporário)/Agentes Raven 6/Falcon/falcon.png",
     "DM/Mapas/Mal'korath/ChatGPT Image 27 de mai. de 2026, 16_08_08.png",
     "DM/Mapas/Mal'korath/ChatGPT Image 22 de mai. de 2026, 21_04_11.png",
     "Dren Kot.png",

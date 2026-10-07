@@ -111,6 +111,13 @@
       "resultText": "1d20\n[9]",
       "timestamp": 1784946771203,
       "id": "ZA8blw6GepQh"
+    },
+    {
+      "result": "22",
+      "original": "6d6",
+      "resultText": "6d6\n[2, 6, 5, 2, 5, 2]",
+      "timestamp": 1786152619823,
+      "id": "xMI19A-wB_WE"
     }
   ]
 }
