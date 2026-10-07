@@ -51,7 +51,7 @@ Confira com a mesa o estado de cada um antes da primeira cena. Os números abaix
 - **Vex** — acaba de ser nomeada responsável pela criptografia da Ordem. É a peça que transforma informação roubada em plano.
 - **Zyan** — o Mestre que quase caiu, voltou à Luz e ainda carrega, no próprio corpo, a metade sombria de si mesmo. O Conselho o tolera; não confia nele.
 - **Patches** — de volta à Ghost, rabugento como sempre, e com uma história sobre "uma linha no mapa" que ninguém consegue explicar.
-- **Mestra Yelara** — a mestra que chegou com Patches em Ilyn. Recebeu o chamado de Kael na Sessão 13 sem entendê-lo direito.
+- **Mestra Yelara Venn** — a mestra que chegou com Patches em Ilyn. Recebeu o chamado de Kael na Sessão 13 sem entendê-lo direito.
 
 ---
 
@@ -71,8 +71,8 @@ Como nas fichas prontas de um livro de campanha, cada personagem tem um motivo p
 
 # Personagens de Tython
 
-### Mestra Yelara
-Jedi de meia-idade, calma de um jeito que soa mais cansado do que sereno. Foi quem acompanhou Patches até Ilyn.
+### Mestra Yelara Venn
+Togruta, especialista em percepção da Força. Olhar intenso, quase nunca pisca, fala pouco e às vezes responde coisas inesperadas. Foi quem acompanhou Patches até Ilyn. (Ficha em `DM/Aliados e npc neutros/MESTRA YELARA VENN.md`.)
 
 **O que sabe:**
 - Recebeu o chamado de Kael na Sessão 13 como uma sensação, não uma mensagem: "alguém pedindo socorro e avisando ao mesmo tempo".
@@ -84,8 +84,8 @@ Jedi de meia-idade, calma de um jeito que soa mais cansado do que sereno. Foi qu
 - Entender o que foi aquilo que guiou Patches.
 - Que o Conselho pare de discutir e aja — ela é a favor de um ataque direto dos Mestres contra Ixaris.
 
-### A Mestra de Kalkar
-*(use o nome já estabelecido na ficha de Kalkar)*. Mais velha que Yelara, rígida, com a mesma cadência de golpes que Cinder reconheceu em Kalkar.
+### Mestra Seris Tal (mestra de Kalkar)
+Mirialan, diplomata e estudiosa da Força. Calma, de movimentos suaves e voz acolhedora — e, quando empunha o sabre, a mesma cadência de golpes que Cinder reconheceu em Kalkar. (Ficha em `DM/Aliados e npc neutros/MESTRA SERIS TAL.md`.)
 
 **O que sabe:**
 - Treinou Cinder décadas atrás. Ele foi o aluno mais talentoso que ela já teve, e ela não percebeu a queda a tempo.
@@ -95,10 +95,10 @@ Jedi de meia-idade, calma de um jeito que soa mais cansado do que sereno. Foi qu
 
 **O que quer:**
 - Não perder um segundo aluno para o mesmo abismo.
-- Pagar a dívida que sente ter com a galáxia por ter formado Cinder. É por isso que vai liderar o ataque dos Mestres contra Ixaris (o que, sem que ninguém saiba, vai terminar em captura — veja a Sessão 19).
+- Pagar a dívida que sente ter com a galáxia por ter formado Cinder. É por isso que, mesmo detestando conflito, vai junto no ataque dos Mestres contra Ixaris (o que, sem que ninguém saiba, vai terminar em captura — veja a Sessão 19).
 
-### O Líder do Conselho
-*(Humano, líder pragmático do Conselho — use o nome já estabelecido)*.
+### Mestre Odan Varel (líder do Conselho)
+Humano, idoso, de postura impecável e voz baixa e firme. Líder pragmático do Conselho. (Ficha em `DM/Aliados e npc neutros/MESTRE ODAN VAREL.md`.)
 
 **O que sabe:**
 - Os relatórios: sistemas caindo para o Império Imortal, uma frota de droides que não recua, nenhuma informação sobre de onde ela vem.
@@ -153,11 +153,11 @@ Oficial de campo da Ordem, especialista em demolição, cabelo raspado de um lad
 - Uma missão que importe. Está cansada de escoltar comboios.
 
 ### Capitã Odessa Renn
-Pilota da corveta da Ordem *Vigília de Tython*. Serviu por anos como piloto pessoal da Mestra de Kalkar.
+Pilota da corveta da Ordem *Vigília de Tython*. Serviu por anos como piloto pessoal da Mestra Seris Tal.
 
 **O que sabe:**
 - Cada rota de saída e entrada do sistema de Tython. A tripulação da *Vigília* só obedece a ela.
-- Que a Mestra de Kalkar está planejando algo grande e não contou nem a ela.
+- Que a Mestra Seris Tal está planejando algo grande e não contou nem a ela.
 
 **O que quer:**
 - Ir junto, aonde quer que a Mestra vá. (Não vai poder — veja a Sessão 18.)
@@ -241,7 +241,7 @@ Não existe resposta certa. A resposta decide qual cristal responde a ele (veja 
 
 ## Área 3 — O Jardim de Meditação (Kalkar e sua Mestra)
 
-**Descrição Geral.** Um jardim em terraços com pedras lisas e uma árvore antiga no centro, de raízes expostas. Silencioso. A Mestra de Kalkar está ali todas as manhãs antes do sol.
+**Descrição Geral.** Um jardim em terraços com pedras lisas e uma árvore antiga no centro, de raízes expostas. Silencioso. A Mestra Seris Tal está ali todas as manhãs antes do sol.
 
 > [!quote] Leia em voz alta
 > Ela está sentada sob a árvore, olhos fechados, e não os abre quando você se aproxima. "Você está carregando mais do que essa mão perdida", ela diz. "Senta. Eu devo isso a você há muito tempo."
@@ -289,12 +289,12 @@ Bônus escondido: qualquer sucesso também revela um fragmento que não foi grav
 **Descrição Geral.** Um pátio largo onde os iniciados treinam formas de combate com sabres de treino. Barulho de passos sincronizados, risadas abafadas que param quando Zyan passa.
 
 > [!quote] Leia em voz alta
-> As crianças param no meio do movimento. Ninguém manda; elas simplesmente param. Zyan fica imóvel na beira do pátio, como quem espera para atravessar uma rua que não acaba nunca. Um Mestre se aproxima dele, alto o bastante para todo o pátio ouvir: "Você não tem lugar aqui perto deles."
+> As crianças param no meio do movimento. Ninguém manda; elas simplesmente param. Zyan fica imóvel na beira do pátio, como quem espera para atravessar uma rua que não acaba nunca. Mestre Dren Kot se aproxima dele, alto o bastante para todo o pátio ouvir: "Você não tem lugar aqui perto deles."
 
 **Encontros.** Zyan não se defende. Se o grupo estiver junto, é a deixa para alguém falar por ele.
 
-- **Diplomacia CD 20** (ou um bom argumento interpretado, que vale +5) convence o Mestre e, mais tarde, o Conselho, de que Zyan deve acompanhar o grupo em qualquer missão que venha a seguir.
-- Se o teste falhar, o Conselho mantém Zyan vigiado. Ele vai junto de qualquer jeito, desobedecendo — e isso custa ao grupo um pouco de confiança do Conselho (o Líder do Conselho fica mais difícil de convencer na Parte 2: +2 na CD).
+- **Diplomacia CD 20** (ou um bom argumento interpretado, que vale +5) convence Mestre Dren Kot e, mais tarde, o Conselho, de que Zyan deve acompanhar o grupo em qualquer missão que venha a seguir.
+- Se o teste falhar, o Conselho mantém Zyan vigiado. Ele vai junto de qualquer jeito, desobedecendo — e isso custa ao grupo um pouco de confiança do Conselho (Mestre Odan Varel fica mais difícil de convencer na Parte 2: +2 na CD).
 
 Depois, a sós, Zyan pede ao grupo a única coisa que quer:
 
@@ -312,14 +312,14 @@ Quem prometer, em voz alta, ganha um vínculo com Zyan que importa na Sessão 19
 **Descrição Geral.** Uma câmara circular no alto do Templo, assentos de pedra em semicírculo, uma janela enorme voltada para o vale. No centro, um projetor holográfico mostra o mapa da galáxia, com sistemas apagando um por um.
 
 > [!quote] Leia em voz alta
-> O mapa no centro da câmara está sangrando. A cada poucos segundos, mais um sistema muda de cor — de azul para um cinza sem vida, o tom que os analistas passaram a usar para "perdido". Os Mestres não olham uns para os outros. Olham para o mapa. Quando vocês entram, o Líder do Conselho levanta os olhos e diz, sem cerimônia: "Sentem-se. Hoje vocês não são convidados. São conselheiros."
+> O mapa no centro da câmara está sangrando. A cada poucos segundos, mais um sistema muda de cor — de azul para um cinza sem vida, o tom que os analistas passaram a usar para "perdido". Os Mestres não olham uns para os outros. Olham para o mapa. Quando vocês entram, Mestre Odan Varel levanta os olhos e diz, sem cerimônia: "Sentem-se. Hoje vocês não são convidados. São conselheiros."
 
 **Como a reunião funciona.** Existem três propostas na mesa, cada uma defendida por um personagem do Mestre. Os jogadores podem apoiar uma, misturar duas ou propor outra coisa. Cada jogador que argumentar faz um teste (**Diplomacia**, **Enganar** ou **Conhecimento (Tática)**, CD 20). Cada sucesso vale **1 Voto** para a proposta que ele defendeu. Um argumento muito bem interpretado vale um Voto sem teste.
 
 | Proposta | Quem defende | O que é |
 |---|---|---|
-| **A Muralha** | O Líder do Conselho | Fortificar Tython e os aliados restantes. Esperar Ixaris vir. |
-| **A Lança** | A Mestra de Kalkar e Mestra Yelara | Os Mestres atacam Ixaris diretamente, onde ele estiver. |
+| **A Muralha** | Mestre Odan Varel | Fortificar Tython e os aliados restantes. Esperar Ixaris vir. |
+| **A Lança** | Mestre Dren Kot e Mestra Yelara Venn | Os Mestres atacam Ixaris diretamente, onde ele estiver. |
 | **O Cego** | Zyan | Qualquer plano que Ixaris consiga ver já está perdido. Primeiro é preciso descobrir como agir sem que ele veja. |
 
 **O ponto de virada.** Não importa quantos Votos cada proposta receba: em algum momento, alguém (Zyan, se ninguém mais) precisa dizer em voz alta o problema central — **Ixaris enxerga o futuro**. Use a fala abaixo quando a discussão começar a girar em círculos:
@@ -332,7 +332,7 @@ Quem prometer, em voz alta, ganha um vínculo com Zyan que importa na Sessão 19
 **O que fica decidido (resultado dos Votos):**
 
 - **A Lança vence ou empata:** os Mestres anunciam que vão atacar Ixaris assim que souberem onde ele está. (Isso vai acontecer de qualquer jeito na reta final; aqui é só a semente.)
-- **A Muralha vence:** o Conselho recua para a defesa. Os Mestres vão atacar mesmo assim, por conta própria, mais tarde — a Mestra de Kalkar não aceita esperar.
+- **A Muralha vence:** o Conselho recua para a defesa. Os Mestres vão atacar mesmo assim, por conta própria, mais tarde — Mestre Dren Kot não aceita esperar, e Seris Tal vai com ele.
 - **O Cego vence:** o Conselho aceita que precisa de algo que ainda não tem. É a deixa perfeita para a Parte 3.
 
 Em qualquer caso, interrompa a reunião no auge da discussão, antes que a votação termine de verdade. É aí que a Porta aparece.
@@ -414,7 +414,7 @@ Toque as faixas na ordem. Entre elas, deixe os jogadores reagirem. Se alguém fa
 >
 > Mestra Yelara é a primeira a falar, quase num sussurro: "Kaleth. As ruínas de Kaleth." E depois, mais firme: "Foi isso que guiou o droide. Foi isso que o trouxe até vocês."
 
-O Conselho não chega a votar. O Líder do Conselho encerra a reunião e autoriza (de má vontade, se a Muralha tiver vencido) que o grupo vá às Ruínas de Kaleth. Os Mestres ficam para trás. A Porta pediu o grupo, não eles.
+O Conselho não chega a votar. Mestre Odan Varel encerra a reunião e autoriza (de má vontade, se a Muralha tiver vencido) que o grupo vá às Ruínas de Kaleth. Os Mestres ficam para trás. A Porta pediu o grupo, não eles.
 
 ---
 
@@ -621,7 +621,7 @@ Apresente isso à mesa como parte da história, não como uma regra. Os substitu
 >
 > No hangar, Brakk Odo olha para as coordenadas do mundo-forja na tela da Ghost e não diz nada por um longo tempo. Depois só pergunta: "Quando a gente sai?"
 >
-> E no alto do Templo, onde ninguém está olhando, a Mestra de Kalkar e Mestra Yelara conversam em voz baixa com outros Mestres, diante de um mapa que mostra só uma coisa: o lugar onde Ixaris está.
+> E no alto do Templo, onde ninguém está olhando, Mestra Seris Tal, Mestra Yelara e Mestre Dren Kot conversam em voz baixa com outros Mestres, diante de um mapa que mostra só uma coisa: o lugar onde Ixaris está.
 
 ---
 
@@ -641,6 +641,6 @@ Apresente isso à mesa como parte da história, não como uma regra. Os substitu
 
 - **O grupo quer atacar Ixaris direto, sem a Forja e a Torre.** A Porta insiste (ela aparece de novo, mais fraca), e o Conselho se recusa a apoiar. Se mesmo assim forem, use a ficha de Ixaris da Sessão 19 com **Âncora da Forja** ativa (regeneração de 20 PV por rodada) — vai ficar claro, rápido, que não há como vencer assim. Deixe a Ghost conseguir fugir.
 - **O grupo se recusa a se dividir.** Faça as duas missões juntos, uma depois da outra, mas a segunda acontece sob alerta total: o inimigo sabe que alguém está vindo. Todas as CDs da segunda missão sobem +5, e Ixaris ganha +2 Pontos de Força na Sessão 19.
-- **O grupo tenta impedir os Mestres de irem na frente (Fio 4+).** Ótimo — deixe tentar. A Mestra de Kalkar só desiste se Kalkar pedir pessoalmente, num teste de **Diplomacia CD 25** com +5 se ele tiver feito a Expiação. Se ela ficar, os Mestres vão mesmo assim, liderados por Yelara, e só três ficam conectados como bateria na Sessão 19 (em vez de quatro). A Mestra de Kalkar, nesse caso, acompanha o grupo na Sessão 19 como aliada.
+- **O grupo tenta impedir os Mestres de irem na frente (Fio 4+).** Ótimo — deixe tentar. A Mestra Seris Tal só desiste se Kalkar pedir pessoalmente, num teste de **Diplomacia CD 25** com +5 se ele tiver feito a Expiação. Se ela ficar, os Mestres vão mesmo assim, liderados por Dren Kot, e só três ficam conectados como bateria na Sessão 19 (em vez de quatro). A Mestra Seris Tal, nesse caso, acompanha o grupo na Sessão 19 como aliada.
 - **Alguém ataca a Porta ou tenta usá-la.** Ela não se defende. Some. E o grupo perde as respostas extras dos Fios até a Sessão 19.
 - **Zyan foi rejeitado pelo Conselho e o grupo não o leva.** Ele aparece na Forja mesmo assim, no meio da Sessão 17, por conta própria.

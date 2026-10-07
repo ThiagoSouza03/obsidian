@@ -95,16 +95,16 @@ Os jogadores de **Kael** e **Kalkar** jogam hoje com **K-0R1** e **Capitã Odess
 - **Comando Inspirador:** como ação rápida, um aliado que possa ouvi-la recebe +1 nos ataques até o fim do próximo turno dele.
 - **Tripulação Leal:** a tripulação da *Vigília* obedece só a ela. Sem Odessa no comando, a corveta recua.
 
-**Equipamento** pistola blaster, vibro-adaga, comunicador de comando, o broche de piloto que a Mestra de Kalkar deu a ela no primeiro ano de serviço
+**Equipamento** pistola blaster, vibro-adaga, comunicador de comando, o broche de piloto que a Mestra Seris Tal deu a ela no primeiro ano de serviço
 
 > [!important] Função Vital — A Âncora
 > Só a *Vigília* tem a **Âncora Iônica**, um feixe capaz de travar os motores de salto do Arauto. A tripulação só dispara sob o comando de Odessa. Ela precisa **disparar** a Âncora na Batalha em Órbita e **mantê-la** durante toda a abordagem, da ponte da *Vigília*. Se Odessa morrer antes de a Torre cair, a Âncora se solta, o Arauto salta e **a missão falha**.
 
-**Como interpretar.** Calma no rádio, impaciente fora dele. Fala com a nave como se fosse uma pessoa. Serviu anos como piloto da Mestra de Kalkar, e o silêncio da Mestra desde a Sessão 16 a incomoda mais do que ela admite.
+**Como interpretar.** Calma no rádio, impaciente fora dele. Fala com a nave como se fosse uma pessoa. Serviu anos como piloto da Mestra Seris Tal, e o silêncio da Mestra desde a Sessão 16 a incomoda mais do que ela admite.
 
 **O que sabe:**
 - Cada manobra possível de uma corveta do tamanho da *Vigília*.
-- Que a Mestra de Kalkar partiu de Tython com outros Mestres sem dizer para onde.
+- Que a Mestra Seris Tal partiu de Tython com outros Mestres sem dizer para onde.
 
 **O que quer:**
 - Que todo mundo volte.
@@ -305,7 +305,7 @@ Se a Aproximação chegou a 6 antes da Âncora, a Ghost pode esperar perto do Ar
 3. **As cápsulas.** Esquemas técnicos: as cápsulas ligam os Mestres a Ixaris. Não para prendê-los. Para **alimentá-lo**. Com a Forja morta, ele precisa de outra fonte para se manter neste plano.
 
 > [!quote] Leia em voz alta — se a gravação dos Mestres for encontrada
-> A imagem é ruim, granulada, gravada por um droide qualquer de um corredor qualquer. Mas dá para ver. A Mestra de Kalkar na frente, sabre aceso. Mestra Yelara logo atrás. E na frente de todos, abrindo cada porta antes que eles chegassem a ela, uma luz em forma de porta.
+> A imagem é ruim, granulada, gravada por um droide qualquer de um corredor qualquer. Mas dá para ver. Mestre Dren Kot na frente, sabre aceso. Mestra Seris Tal e Mestra Yelara logo atrás. E na frente de todos, abrindo cada porta antes que eles chegassem a ela, uma luz em forma de porta.
 >
 > Então a luz para. Treme. E se apaga, como uma vela.
 >
@@ -379,13 +379,13 @@ O objetivo secreto de K-0R1 é a desativação. Deixe o jogador defender isso na
 >
 > "Vocês tiraram a minha Forja. Tiraram a minha voz. E fizeram isso sem que eu visse. Eu não sei quem são vocês. Mas sei quem os mandou."
 >
-> Uma imagem se abre em todas as telas. Uma sala circular, escura. Quatro cápsulas de vidro dispostas ao redor de um trono. Dentro de cada uma, uma figura de manto, olhos fechados, ligada por cabos que pulsam vermelho. Mestra Yelara. A Mestra de Kalkar. E mais dois rostos que vocês reconhecem do Conselho.
+> Uma imagem se abre em todas as telas. Uma sala circular, escura. Quatro cápsulas de vidro dispostas ao redor de um trono. Dentro de cada uma, uma figura de manto, olhos fechados, ligada por cabos que pulsam vermelho. Mestra Yelara Venn. Mestra Seris Tal, a mestra de Kalkar. Mestre Dren Kot. Mestre Halren Vos.
 >
 > "Eu não preciso mais da Forja. Eu tenho algo melhor." Uma pausa. "Venham buscá-los. Eu estou esperando. Pela primeira vez em trezentos anos, eu estou curioso."
 >
 > As telas apagam.
 
-*(Se a Mestra de Kalkar ficou em Tython por causa da Sessão 16, ela não aparece nas cápsulas: são só três, e Ixaris diz "três" em vez de mostrar a quarta. Ela ouve a transmissão ao lado do grupo.)*
+*(Se a Mestra Seris Tal ficou em Tython por causa da Sessão 16, ela não aparece nas cápsulas: são só três, e Ixaris diz "três" em vez de mostrar a quarta. Ela ouve a transmissão ao lado do grupo.)*
 
 **Fim da Sessão 18.** O grupo está reunido. A Sessão 19 é a última.
 

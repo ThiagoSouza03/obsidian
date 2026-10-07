@@ -46,7 +46,7 @@ Preencha esta lista antes da sessão. Quase tudo no capítulo depende dela.
 | A Forja foi destruída (Sessão 17)? | Se **não**, Ixaris tem a **Âncora da Forja**. |
 | A Torre foi **explodida**, **desativada** ou ficou **ativa** (Sessão 18)? | Encontros das Áreas C1 e C2; **Rede de Comando**; **Olhos da Frota**. |
 | Quantos Fios da Porta o grupo conquistou (Sessão 16)? | Fala final da Porta; aviso sobre os Mestres. |
-| A Mestra de Kalkar ficou em Tython (Sessão 16, "Adaptando")? | Se sim, só **3** Mestres estão conectados, e ela luta ao lado do grupo. |
+| A Mestra Seris Tal ficou em Tython (Sessão 16, "Adaptando")? | Se sim, só **3** Mestres estão conectados, e ela luta ao lado do grupo. |
 | Quem prometeu "não hesitar" a Zyan (Sessão 16)? | Cena de Zyan na Fase 2. |
 | Quantos Chamados do Lado Sombrio Zyan aceitou (Sessão 17)? | Teste de Vontade de Zyan na Fase 2. |
 | Pontos do Lado Sombrio de Kalkar agora? | Escolha final. |
@@ -71,14 +71,14 @@ Preencha esta lista antes da sessão. Quase tudo no capítulo depende dela.
 
 # Os Mestres nas Cápsulas
 
-Use os nomes da sua mesa. Se precisar, os dois Mestres do Conselho podem ser **Mestre Oru Tann** (humano, idoso, o mais calado do Conselho) e **Mestra Sela Dravin** (twi'lek, a mais jovem do Conselho).
+Os quatro Mestres capturados são os que lideraram o ataque à Cidadela. Mestre Odan Varel, o líder do Conselho, ficou em Tython.
 
 | Cápsula | Mestre | Posição no salão |
 |---|---|---|
-| Norte | **Mestra Yelara** | 5 quadrados ao norte do trono |
-| Leste | **A Mestra de Kalkar** | 5 quadrados a leste |
-| Sul | **Mestre Oru Tann** | 5 quadrados ao sul |
-| Oeste | **Mestra Sela Dravin** | 5 quadrados a oeste |
+| Norte | **Mestra Yelara Venn** | 5 quadrados ao norte do trono |
+| Leste | **Mestra Seris Tal** (mestra de Kalkar) | 5 quadrados a leste |
+| Sul | **Mestre Dren Kot** | 5 quadrados ao sul |
+| Oeste | **Mestre Halren Vos** | 5 quadrados a oeste |
 
 Cada Mestre está inconsciente e começa o combate **-2 passos no curso da condição**. Eles não agem até serem desconectados. Um Mestre desconectado acorda no início da rodada seguinte, ainda fraco: pode se arrastar para longe da cápsula, ajudar alguém (prestar auxílio) ou fazer **um único** ataque com o sabre por rodada (+12, 2d8+6).
 
@@ -211,7 +211,7 @@ A partir deste momento, Zyan está inteiro. Isso muda a ficha dele (veja o Apên
 >
 > Não se levanta quando vocês entram. Não precisa. Ixaris é alto, magro como alguém que esqueceu de comer há séculos, envolto numa armadura que parece ter crescido sobre ele em vez de ter sido vestida — metal da Forja fundido com pedra Sith, rachado em vários pontos, com luz vermelha escapando das rachaduras como sangue. Na cabeça, uma coroa de cabos que descem do trono e se ligam a ele pela nuca.
 >
-> Em volta, as quatro cápsulas. Os rostos dos Mestres, de olhos fechados, atrás do vidro. A Mestra de Kalkar está na cápsula a leste.
+> Em volta, as quatro cápsulas. Os rostos dos Mestres, de olhos fechados, atrás do vidro. A Mestra Seris Tal está na cápsula a leste.
 >
 > Ixaris olha para vocês, um por um, devagar. E pela primeira vez, ele os vê de verdade. Vocês percebem o exato momento em que acontece: os olhos dele se arregalam, como os de quem acorda de repente de um sonho longo.
 >
@@ -315,7 +315,7 @@ Depois do combate, dê a cada jogador uma cena curta de fechamento. Use as condi
 
 ## Os Mestres
 
-- **Desconectados a tempo:** acordam fracos, mas inteiros. A Mestra de Kalkar procura Kalkar antes de qualquer outra pessoa.
+- **Desconectados a tempo:** acordam fracos, mas inteiros. A Mestra Seris Tal procura Kalkar antes de qualquer outra pessoa.
 - **Consumidos e estabilizados:** sobrevivem sem a Força. Ninguém na Ordem sabe ainda o que isso significa.
 - **Consumidos e não estabilizados:** morrem em paz, ao lado do grupo, depois do combate. Dê a eles uma última frase.
 
@@ -345,7 +345,7 @@ O chamado que ele mandou na Sessão 13, pedindo socorro e avisando ao mesmo temp
 
 ## Os Substitutos
 
-Cada substituto que sobreviveu tem um último momento: Ilsa termina uma demolição em que todo mundo voltou; Brakk vê o Cercado vazio, se o libertou; Odessa encontra a Mestra de Kalkar; K-0R1 diz "eu" sem perceber.
+Cada substituto que sobreviveu tem um último momento: Ilsa termina uma demolição em que todo mundo voltou; Brakk vê o Cercado vazio, se o libertou; Odessa encontra a Mestra Seris Tal; K-0R1 diz "eu" sem perceber.
 
 ---
 
@@ -380,7 +380,7 @@ Cada substituto que sobreviveu tem um último momento: Ilsa termina uma demoliç
 
 **ND 17 | Humanoide (Sith ancestral) Médio — Nível 17 — Senhor do Império Imortal**
 
-*Valores abaixo já incluem os 4 Mestres conectados. Para cada Mestre desconectado: -2 em Usar a Força, -1 em todos os testes de habilidade, -20 PV (atual e máximo). Com 3 Mestres (se a Mestra de Kalkar ficou em Tython), comece já com uma desconexão aplicada.*
+*Valores abaixo já incluem os 4 Mestres conectados. Para cada Mestre desconectado: -2 em Usar a Força, -1 em todos os testes de habilidade, -20 PV (atual e máximo). Com 3 Mestres (se a Mestra Seris Tal ficou em Tython), comece já com uma desconexão aplicada.*
 
 **Inic** +17 | **Sentidos** Percepção +19
 
